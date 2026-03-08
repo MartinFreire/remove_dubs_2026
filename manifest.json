@@ -12,6 +12,7 @@
   "permissions": [
     "https://www.crunchyroll.com/simulcastcalendar*"
   ],
+  "web_accessible_resources": ["src/languages.json"],
   "content_scripts": [
     {
       "matches": [
